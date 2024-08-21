@@ -26,15 +26,17 @@ You can download the ZIP file from the following link:
 You'll need to prepare and provide specific input files in CSV format to use with the model:
 - **Count Matrix with Covariates:** `count_matrix_covar.csv`
   
-  <img width="176" alt="image" src="https://github.com/user-attachments/assets/c54edccc-569b-461b-adf6-9783a6e529a1">
+  <img width="214" alt="image" src="https://github.com/user-attachments/assets/ea8be8fb-15bd-46af-beeb-927d503db202">
+
 
 - **Sample by OTU Count Matrix:** `samplebyotu_countmatrix.csv`
 
-  <img width="338" alt="image" src="https://github.com/user-attachments/assets/ba49b517-8f37-47be-9663-5a976291a6ed">
+  <img width="512" alt="image" src="https://github.com/user-attachments/assets/1d994855-4b91-4aee-8760-a31099babcc9">
+
 
 - **Clinical Data:** `clinicalinfo_total.csv`
 
-  <img width="338" alt="image" src="https://github.com/user-attachments/assets/3c66921c-1a98-4720-9ceb-36c9810daac9">
+  <img width="303" alt="image" src="https://github.com/user-attachments/assets/bfdee048-7d78-4b14-b9d4-49fe2f3f9600">
 
 
 ### Step 3: Running the Model
